@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, my name is Sean! [https://reformed-sysadmin.com][website] 👋
+
+I'm a self passionate technologist who loves learning new things.
+
+
+---
+
+[website]: https://reformed-sysadmin.com
 
 <!--
 **reformed-sysadmin/reformed-sysadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
